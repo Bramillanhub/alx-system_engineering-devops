@@ -1,2 +1,2 @@
 #!/bin/bash
-chwon -hvincent:staff _hello
+chwon -h vincent:staff *o
